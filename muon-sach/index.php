@@ -157,7 +157,7 @@ if(isset($_SESSION["cart_item"])){
 </div>
 </div>
 <div id="copyright" class="container">
-	<p style="color: black">&copy; 2021 Sách và Hành động THPT Chuyên Biên Hoà. Bảo lưu mọi quyền. | Designed by <a href="http://facebook.com/tunnaduong" style="color: black">Dương Tùng Anh</a> | Hosted by <a href="http://fattiesoftware.cóm" rel="nofollow" style="color: black">Fatties Software</a>.</p>
+	<p style="color: black">&copy; 2021 Sách và Hành động THPT Chuyên Biên Hoà. Bảo lưu mọi quyền. | Designed by <a href="http://facebook.com/tunnaduong" style="color: black">Dương Tùng Anh</a> | Hosted by <a href="http://fattiesoftware.com" rel="nofollow" style="color: black">Fatties Software</a>.</p>
 </div>
 </BODY>
 </HTML>
